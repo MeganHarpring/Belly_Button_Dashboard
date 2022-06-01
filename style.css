@@ -1,0 +1,22 @@
+body {
+
+    color: #000000;
+    background-color: rgb(96, 190, 230);
+  }
+ 
+ .tag {
+     font-family: inherit; 
+     font-size: 1rem;
+    }  
+
+.jumbotron {
+    background-image: url("https://www.cedars-sinai.org/content/dam/cedars-sinai/blog/2020/06/viruses-bacteria-fungi.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+
+  }
+
+.header-txt {
+    background-color: rgb(96, 190, 230);
+    opacity: 0.9;
+  }
